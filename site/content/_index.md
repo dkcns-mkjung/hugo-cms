@@ -1,5 +1,5 @@
 ---
-title: "Hugo + Github + Netlify 테스트 사이트"
+title: "Hugo + Github + Netlify 사이트"
 subtitle: 메인화면 설명 들어가는 곳 (블라블라....)
 image: /img/home-jumbotron.jpg
 blurb:
